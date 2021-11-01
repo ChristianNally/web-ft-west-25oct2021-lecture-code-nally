@@ -30,6 +30,7 @@
 - We can use _assertions_ to describe the desired outcome of our code
 - Chai offers three different interfaces: `should`, `expect`, and `assert`
 - For most uses, choosing which interface to use is a matter of preference
+- The differences are documented here: https://stackoverflow.com/questions/21396524/what-is-the-difference-between-assert-expect-and-should-in-chai
 
 ```js
 // should
