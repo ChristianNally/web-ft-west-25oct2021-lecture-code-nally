@@ -1,7 +1,9 @@
 // implement a function called sayHello that takes the name of the saluted and returns what would be said.
-const sayHello = () => {
+const sayHello = (person) => {
+  return `Hello, ${person}`;
 };
 
-// show some test code here at first, and then factor it out later
+console.log(sayHello('World'));
 
 // make the functions exportable
+module.exports = sayHello;

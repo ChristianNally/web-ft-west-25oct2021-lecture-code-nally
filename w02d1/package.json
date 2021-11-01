@@ -1,23 +1,33 @@
 {
-  "name": "w02d1",
+  "name": "tdd",
   "version": "1.0.0",
-  "description": "code that exemplifies testing, assertions and test driven development",
+  "description": "Test Driven Development sample code.",
   "main": "hello-world.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "TDD",
-    "testing",
-    "mocha",
-    "chai",
-    "LHL",
-    "Bootcamp"
+    "bug",
+    "driven",
+    "development",
+    "Lighthouse",
+    "Labs",
+    "Oct",
+    "25",
+    "West",
+    "is",
+    "Best"
   ],
-  "author": "me",
+  "author": "Christian Nally",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.3.4",
-    "mocha": "^8.3.2"
+    "mocha": "^9.1.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
   }
 }
