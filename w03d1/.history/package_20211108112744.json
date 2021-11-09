@@ -1,0 +1,13 @@
+{
+  "name": "w03d1",
+  "version": "1.0.0",
+  "description": "[] it is Javascript extracted out of the browser context, and put into the 'back-end' context [] the docs show the built-in packages",
+  "main": "express-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node express-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
